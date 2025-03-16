@@ -4,9 +4,10 @@ import React from 'react';
 import { motion } from "framer-motion";
 
 type TestimonialProps = {
-  category: string;
+  category?: string;
   name: string;
   feedback: string;
+ 
 };
 
 const TestimonialCard: React.FC<TestimonialProps> = ({ category, name, feedback }) => {
