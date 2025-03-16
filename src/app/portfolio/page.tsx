@@ -87,7 +87,7 @@ const Portfolio: React.FC = () => {
                 src="/images/mySQL.png"
                 alt="mySQL-image"
                 width={100}
-                heigh={100}
+                height={100}
                 className="rounded-lg shadow-lg"
                 />
               <p>MySQL</p>
@@ -97,7 +97,7 @@ const Portfolio: React.FC = () => {
                 src="/images/mongoDB2.png"
                 alt="mongoDB-image"
                 width={100}
-                heigh={100}
+                height={100}
                 className="rounded-lg shadow-lg"
                 />
               <p>MongoDB</p>
