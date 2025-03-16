@@ -113,7 +113,7 @@ const Portfolio: React.FC = () => {
                 <p>📩 <strong>Email:</strong> <a href="mailto:handriko.an@google.com" className="text-blue-400">handriko.an@google.com</a></p>
                 <p>💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/Handriko" className="text-blue-400">linkedin.com/in/handriko</a></p>
                 <p>💻 <strong>GitHub:</strong> <a href="https://github.com/handriko-code" className="text-blue-400">github.com/handriko-code</a></p>
-                <p>🌐 <strong>Portfolio:</strong> <a href="https://yourportfolio.com" className="text-blue-400">yourportfolio.com</a></p>
+                <p>🌐 <strong>Portfolio:</strong> <a href="https://my-app-portofolio.vercel.app/" className="text-blue-400">Myportfolio.com</a></p>
               </div>
         </section>
 
