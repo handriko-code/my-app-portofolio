@@ -1,6 +1,16 @@
 import React from 'react'
 import '../globals.css';
 
+/**
+ * Komponen Portfolio
+ * 
+ * Menampilkan halaman portofolio yang mencakup peran dan tanggung jawab, 
+ * hasil proyek, teknologi yang digunakan, serta informasi kontak.
+ * Menggunakan desain responsif dengan efek visual modern.
+ * 
+ */
+
+
 // import MenuItem from '@/component/MenuItem';
 const Portfolio: React.FC = () => {
     return (

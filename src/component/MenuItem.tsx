@@ -1,6 +1,11 @@
 import React from 'react';
 import Link from 'next/link';
 
+/**
+ * Komponen MenuItem menampilkan tautan navigasi dengan efek hover.
+ * 
+ */
+
 const MenuItem: React.FC<{ title: string; address: string; className?: string }> = ({ title, address, className }) => {
   return (
     <Link 

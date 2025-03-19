@@ -1,6 +1,14 @@
 import React from 'react';
 import SkillCard from "./skillCard";
 
+/**
+ * Komponen Skill
+ * 
+ * Menampilkan daftar keterampilan dalam pengembangan web, termasuk 
+ * front-end, back-end, serta DevOps & alat pengembangan.
+ * Menggunakan komponen SkillCard untuk menampilkan setiap kategori keterampilan.
+ * 
+ */
 
 const skills = [
   {

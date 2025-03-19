@@ -1,6 +1,14 @@
 import React from "react";
 import Image from "next/image";
 
+/**
+ * Ekspor default komponen SkillCard.
+ * 
+ * SkillCard digunakan untuk menampilkan informasi tentang keterampilan tertentu, 
+ * termasuk deskripsi dan gambar teknologi terkait.
+ */
+
+
 type Category = {
   title: string;
   images: string[];

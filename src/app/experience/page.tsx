@@ -1,5 +1,14 @@
 import React from 'react'
 
+/**
+ * Komponen Experience
+ * 
+ * Menampilkan pengalaman kerja sebagai Junior Full-Stack Web Developer di berbagai perusahaan, 
+ * termasuk peran, tanggung jawab, dan teknologi yang digunakan. 
+ * Disusun dalam format grid dengan desain responsif.
+ * 
+ */
+
 export default function Experience() {
   return (
         <section className="justify-center items-center text-white min-h-screen bg-gradient-to-r from-black to-slate-600">

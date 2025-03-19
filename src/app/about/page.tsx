@@ -1,5 +1,15 @@
 import React from 'react'
 
+/**
+ * Komponen About
+ * 
+ * Menampilkan informasi tentang profil, keahlian, dan nilai inti seorang 
+ * Full-Stack Web Developer. Dirancang dengan Tailwind CSS dalam layout grid.
+ * 
+ */
+
+
+
 export default function About() {
   return (
     <section className="justify-center items-center text-white min-h-screen bg-gradient-to-r from-black to-slate-600">

@@ -3,6 +3,15 @@ import 'tailwindcss';
 import MenuItem from './MenuItem';
 import '../app/globals.css';
 
+/**
+ * Komponen Header menampilkan navigasi utama situs dengan menu, logo, 
+ * pencarian, serta tombol login dan register.
+ * 
+ * Menu navigasi berisi beberapa tautan ke halaman utama, tentang, kontak, 
+ * keterampilan, portofolio, pengalaman, dan testimonial.
+ * 
+ */
+
 const Header: React.FC = () => {
   const menuItems = [
     { title: 'Home', address: '/' },

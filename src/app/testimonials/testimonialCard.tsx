@@ -1,7 +1,15 @@
 "use client";
 import React from 'react';
-
 import { motion } from "framer-motion";
+
+/**
+ * Komponen TestimonialCard menampilkan kartu ulasan dari klien.
+ * 
+ * Menggunakan animasi Framer Motion untuk efek transisi yang halus.
+ * Setiap kartu berisi kategori (opsional), nama klien, dan feedback mereka.
+ * 
+ */
+
 
 type TestimonialProps = {
   category?: string;

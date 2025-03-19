@@ -3,6 +3,15 @@ import React from 'react'
 import { motion } from "framer-motion";
 import TestimonialCard from "./testimonialCard";
 
+
+/**
+ * Komponen Experience menampilkan daftar testimonial dari berbagai klien.
+ * 
+ * Menggunakan animasi Framer Motion untuk efek tampilan yang lebih dinamis.
+ * Setiap testimonial ditampilkan menggunakan komponen TestimonialCard.
+ * 
+ */
+
 const testimonials = [
   {
     name: "Sarah J., E-commerce Owner",
