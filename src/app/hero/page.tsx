@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
             <p>This website is intended for learning purposes and technical demonstration only.  
             Any similarities in names, projects, or other information are purely coincidental and unintentional.</p>
           </small>
-        <p className="mt-2">© 2024 YourWebsite. All rights reserved.</p>
+        <p className="mt-2">© 2025 YourWebsite. All rights reserved.</p>
         </footer>
       </div>
      </section>
